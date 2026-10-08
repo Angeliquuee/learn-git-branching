@@ -18,7 +18,7 @@ The goal isn't just to memorize Git commands, but to understand how Git branches
 │
 ├── Ramping Up
 │   ├── 01 - Detach yo' HEAD
-│   ├── 02 - Relative Refs (^)
+│   ├── 02 - Relative Refs (Caret)
 │   ├── 03 - Relative Refs #2
 │   └── 04 - Reversing changes in Git
 │
