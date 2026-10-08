@@ -1,4 +1,4 @@
-##  Learn Git Branching
+#  Learn Git Branching
 
 A hands-on lab for learning and practicing Git branching, merging, rebasing, conflict resolution, and collaborative Git workflows using Learn Git Branching.
 
