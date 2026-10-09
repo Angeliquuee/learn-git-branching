@@ -2,7 +2,7 @@ We need to learn some kind of way of combining the work from two different branc
 
 The first method that we will examine is `git merge`. Merging in Git creates a special commit that has two unique parents. 
 
-> ![Static Badge](https://img.shields.io/badge/Note-red) A commit with two parents essentially means "I want to include all the work from this parent over here and this one over here, and the set of all their parents"
+> ![Static Badge](https://img.shields.io/badge/Note-red)  A commit with two parents essentially means "I want to include all the work from this parent over here and this one over here, and the set of all their parents"
 
 ___
 
